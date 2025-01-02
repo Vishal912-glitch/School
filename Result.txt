@@ -1,1 +1,2 @@
 English - Pass
+hindi - fail
